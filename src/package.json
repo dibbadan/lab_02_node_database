@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "emoji-slice": "^2.1.0",
+    "grapheme-splitter": "^1.0.4",
+    "sqlite3": "^5.0.2"
+  },
+  "type": "module"
+}

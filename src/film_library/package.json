@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dayjs": "^1.10.8",
+    "sqlite3": "^5.0.2"
+  },
+  "type": "module"
+}
